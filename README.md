@@ -13,7 +13,6 @@ Decided changing career path to enter the world of technology/programming embrac
 <br>
 
 <h2 style="font-weight:bold">Technologies I like</h2>
-
 <p>
  <img width="40" style="margin-right: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  <img width="40" style="margin-right: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -23,10 +22,7 @@ Decided changing career path to enter the world of technology/programming embrac
  <img width="40" style="margin-right: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
  <img width="40" style="margin-right: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
  <img width="40" style="margin-right: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-          
 </p>
-
-##
 
 <div style=""><br>
   <a href="https://github.com/BpCampos">
