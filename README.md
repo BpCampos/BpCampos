@@ -14,14 +14,14 @@ Decided changing career path to enter the world of technology/programming embrac
 
 <h2 style="font-weight:bold">Technologies I like</h2>
 <p>
- <img width="40" style="margin-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
- <img width="40" style="margin-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
- <img width="40" style="margin-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
- <img width="40" style="margin-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
- <img width="40" style="margin-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
- <img width="40" style="margin-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
- <img width="40" style="margin-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
- <img width="40" style="margin-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+ <img width="40" style="margin-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript"/>
+ <img width="40" style="margin-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
+ <img width="40" style="margin-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="Sequelize"/>
+ <img width="40" style="margin-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Nodejs"/>
+ <img width="40" style="margin-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
+ <img width="40" style="margin-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
+ <img width="40" style="margin-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
+ <img width="40" style="margin-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express"/>
 </p>
 
 <div style=""><br>
