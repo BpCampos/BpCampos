@@ -6,7 +6,7 @@ Decided changing career path to enter the world of technology/programming embrac
 
 <p>
 <a href="https://www.linkedin.com/in/bruno-campos98/"><img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat-square&logo=Linkedin&logoColor=white"></a>
-<a href="https://leetcode.com/BpCampos/"><img alt="Linkedin" src="https://img.shields.io/badge/-Leetcode-000000?style=flat-square&logo=Leetcode&logoColor=yellow"></a>
+<a href="https://leetcode.com/BpCampos/"><img alt="Linkedin" src="https://img.shields.io/badge/-BpCampos-000000?style=flat-square&logo=Leetcode&logoColor=yellow"></a>
 <a href = "mailto: campos.bruno98@gmail.com"><img alt="Linkedin" src="https://img.shields.io/badge/-campos.bruno98@gmail.com-FFFFFF?style=flat-square&logo=Gmail&logoColor=red"></a>
 </p>
 
