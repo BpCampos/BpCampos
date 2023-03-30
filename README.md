@@ -7,22 +7,14 @@ Decided changing career path to enter the world of technology/programming embrac
 <p>
 <a href="https://www.linkedin.com/in/bruno-campos98/"><img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat-square&logo=Linkedin&logoColor=white"></a>
 <a href="https://leetcode.com/BpCampos/"><img alt="Linkedin" src="https://img.shields.io/badge/-BpCampos-000000?style=flat-square&logo=Leetcode&logoColor=yellow"></a>
-<a href = "mailto: campos.bruno98@gmail.com"><img alt="Linkedin" src="https://img.shields.io/badge/-campos.bruno98@gmail.com-FFFFFF?style=flat-square&logo=Gmail&logoColor=red"></a>
+<a href = "mailto:campos.bruno98@gmail.com"><img alt="Linkedin" src="https://img.shields.io/badge/-campos.bruno98@gmail.com-FFFFFF?style=flat-square&logo=Gmail&logoColor=red"></a>
 </p>
 
 <br>
 
 <h2 style="font-weight:bold">Technologies I like</h2>
-<p>
- <img width="40" style="margin-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript"/>
- <img width="40" style="margin-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
- <img width="40" style="margin-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="Sequelize"/>
- <img width="40" style="margin-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Nodejs"/>
- <img width="40" style="margin-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
- <img width="40" style="margin-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
- <img width="40" style="margin-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
- <img width="40" style="margin-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express"/>
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=javascript,react,nodejs,express,html,css,sequelize,mysql&theme=light)](https://skillicons.dev)
 
 <div style=""><br>
   <a href="https://github.com/BpCampos">
