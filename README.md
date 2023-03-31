@@ -19,5 +19,5 @@ Decided changing career path to enter the world of technology/programming embrac
 <div style=""><br>
   <a href="https://github.com/BpCampos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BpCampos&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BpCampos&layout=compact&langs_count=7&theme=dark&hide=jupyter%20notebook"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BpCampos&layout=compact&langs_count=10&theme=dark&hide=jupyter%20notebook"/>
 </div>
