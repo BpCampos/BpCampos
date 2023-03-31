@@ -14,7 +14,7 @@ Decided changing career path to enter the world of technology/programming embrac
 
 <h2 style="font-weight:bold">Technologies I like</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,react,nodejs,express,html,css,sequelize,mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,react,nodejs,express,html,css,sequelize,mysql,postman&theme=light)](https://skillicons.dev)
 
 <div style=""><br>
   <a href="https://github.com/BpCampos">
