@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Bruno Campos
 
-Decided changing career path to enter the world of technology/programming embracing new challenges and discovering what I realy like to work with. studying to be a full-stack developer and trying to get the maximum out of any new piece of knowledge I came across!
+Decided changing career path to enter the world of technology/programming embracing new challenges. studying to be a full-stack developer and looking for a job as junior developer, trying to get the maximum out of any new challenge/opportunity I came across.
 
 #
 
