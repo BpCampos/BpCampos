@@ -1,6 +1,10 @@
 ### Hi there 👋 I'm Bruno Campos
 
-Decided changing career path to enter the world of technology/programming embracing new challenges. studying to be a full-stack developer and looking for a job as junior developer, trying to get the maximum out of any new challenge/opportunity I came across.
+As a recent graduate of a full stack coding bootcamp, I am eager to jumpstart my career as a junior full
+stack developer. With a passion for technology and a strong foundation in web development, I am
+confident in my ability to contribute to a dynamic and collaborative team. While I may not have
+professional experience yet, I am motivated, adaptable, and excited to take on new challenges and
+continue learning in a fast-paced industry.
 
 #
 
