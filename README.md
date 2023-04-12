@@ -22,6 +22,6 @@ continue learning in a fast-paced industry.
 
 <div style=""><br>
   <a href="https://github.com/BpCampos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BpCampos&show_icons=true&theme=dark&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BpCampos&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BpCampos&layout=compact&langs_count=10&theme=dark&hide=jupyter%20notebook"/>
 </div>
