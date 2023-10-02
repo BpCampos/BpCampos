@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Bruno Campos](https://portfolio-brunocampos.vercel.app/)
 
-As a recent graduate of a full stack coding bootcamp, I am eager to jumpstart my career as a junior full
+As a Full Stack developer, I am eager to jumpstart my career as a junior full
 stack developer. With a passion for technology and a strong foundation in web development, I am
 confident in my ability to contribute to a dynamic and collaborative team. While I may not have
 professional experience yet, I am motivated, adaptable, and excited to take on new challenges and
