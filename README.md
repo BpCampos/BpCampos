@@ -18,7 +18,7 @@ continue learning in a fast-paced industry.
 
 <h2 style="font-weight:bold">Technologies I like</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,react,typescript,nodejs,express,html,css,sequelize,mysql,postman,prisma,tailwind&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,react,typescript,nodejs,express,html,css,sequelize,mysql,mongodb,postman,prisma,tailwind&theme=light)](https://skillicons.dev)
 
 <div style=""><br>
   <a href="https://github.com/BpCampos">
